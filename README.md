@@ -1,0 +1,2 @@
+# Awspractice
+to store code
